@@ -6,7 +6,7 @@ import re
 import random
 import urllib.parse
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "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"
 
 try:
     custom_http_client = httpx.Client(
